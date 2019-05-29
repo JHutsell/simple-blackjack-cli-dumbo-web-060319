@@ -68,7 +68,8 @@ def runner
     welcome 
     initial_round 
     prompt_user 
-    hit? 
+    hit?
+    display_card_total
   end
   end_game
 end
